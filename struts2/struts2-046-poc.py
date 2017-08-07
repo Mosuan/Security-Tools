@@ -50,4 +50,4 @@ if __name__ == '__main__':
         run(url)
     else:
         print ("usage: %s http://www.baidu.com/vuln.action whoami" % sys.argv[0])
-        sys.exit(-1)%
+        sys.exit(-1)
