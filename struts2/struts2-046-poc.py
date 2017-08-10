@@ -49,5 +49,5 @@ if __name__ == '__main__':
         url = sys.argv[1]
         run(url)
     else:
-        print ("usage: %s http://www.baidu.com/vuln.action whoami" % sys.argv[0])
+        print "usage: %s http://www.baidu.com/vuln.action"
         sys.exit(-1)%
